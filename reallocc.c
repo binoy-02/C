@@ -1,3 +1,4 @@
+//Use realloc to implement varchar for any length.
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
