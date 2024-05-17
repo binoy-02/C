@@ -1,6 +1,6 @@
 //Implement stack operations using array.
-#include<stdio.h>
-#define N 5
+1#include<stdio.h>
+#define N 40
 int stack[N];
 int top=-1;
 void push(int e)
