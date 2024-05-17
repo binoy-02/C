@@ -1,7 +1,7 @@
 /*A letter means push and an asterisk means pop in the  following sequence. 
 Give the sequence of values returned by the pop operations when this sequence of operations 
 is performed on an initially empty LIFO stack.
- E A S * Y * Q U E * * * S T * * * I O * N * * *
+              E A S * Y * Q U E * * * S T * * * I O * N * * *
 */
 
 #include<stdio.h>
